@@ -12,7 +12,3 @@ http://www.cites.illinois.edu/ssnprogram/index.html
 
 For more information on Cornell Spider:
 http://www2.cit.cornell.edu/security/tools/
-
-Questions
--------------
-As the original developer from UIUC, and would be glad to answer any questions from other schools considering Firefly or Cornell Spider for their own SSN remediation efforts.
